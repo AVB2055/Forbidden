@@ -35,6 +35,29 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:0,PassionXXX HD
 #EXTGRP:TV каналы
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 ,TEST 3
+#EXTGRP:TV каналы
+http://cord-cutter.net:8080/4wVQA7/625159/160001
+#EXTGRP:TV каналы
+#EXTINF:-1 ,TEST 13
+#EXTGRP:TV каналы
+http://cord-cutter.net:8080/4wVQA7/625159/160006
+#EXTGRP:TV каналы
+#EXTINF:-1 ,TEST 14
+#EXTGRP:TV каналы
+http://cord-cutter.net:8080/4wVQA7/625159/160005
+#EXTINF:-1 ,TEST 15
+#EXTGRP:TV каналы
+http://cord-cutter.net:8080/4wVQA7/625159/160004
+#EXTINF:-1 ,TEST 16
+#EXTGRP:TV каналы
+http://cord-cutter.net:8080/4wVQA7/625159/160003
+#EXTINF:-1 ,TEST 19
+#EXTGRP:TV каналы
+http://cord-cutter.net:8080/4wVQA7/625159/159953
+#EXTINF:-1 ,TEST 22
+#EXTGRP:TV каналы
+http://cord-cutter.net:8080/4wVQA7/625159/160002
 #EXTINF:0,Easy cum easy go/Легкая и легко движется
 #EXTGRP:Фильмы
 https://video2.tizam.cc/files/2105156/legkaya_i_legko_dvizhetsya.mp4

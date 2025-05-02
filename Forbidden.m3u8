@@ -23,67 +23,12 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:0,Babes TV
 #EXTGRP:TV каналы
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:0,Brazzers TV Europe
-#EXTGRP:TV каналы
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:0,Erox HD
 #EXTGRP:TV каналы
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:0,Extasy TV
+#EXTINF:0,Dusk
 #EXTGRP:TV каналы
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="exxxotica" group-title="Взрослые [ВХОД СТРОГО 18+]", Exxxotica
-http://31.148.48.15:80/O-la-la/index.m3u8
-
-#EXTINF:-1 tvg-id="kino18plusint-tviksel" group-title="Взрослые [ВХОД СТРОГО 18+]", Кино 18+ International
-https://autopilot.catcast.tv/content/40381/index.m3u8
-
-#EXTINF:-1 tvg-id="playboy-tv" group-title="Взрослые [ВХОД СТРОГО 18+]", Playboy TV
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые [ВХОД СТРОГО 18+]", Digital Desire
-#EXTVLCOPT:http-user-agent=Wink
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="brazzers-tv-europe" group-title="Взрослые [ВХОД СТРОГО 18+]", Brazzers TV Europe
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dorcel" group-title="Взрослые [ВХОД СТРОГО 18+]", Dorcel TV HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dusk" group-title="Взрослые [ВХОД СТРОГО 18+]", DUSK
-#EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="eroxxxhd" group-title="Взрослые [ВХОД СТРОГО 18+]",Eroxxx HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="erox" group-title="Взрослые [ВХОД СТРОГО 18+]",Erox
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="Взрослые [ВХОД СТРОГО 18+]", Extasy TV
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="babes-tv" group-title="Взрослые [ВХОД СТРОГО 18+]",Babes TV
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="leo-tv-xxx" group-title="Взрослые [ВХОД СТРОГО 18+]", Leo TV HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]", Reality Kings TV
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
-
-
 #EXTINF:0,Easy cum easy go/Легкая и легко движется
 #EXTGRP:Фильмы
 https://video2.tizam.cc/files/2105156/legkaya_i_legko_dvizhetsya.mp4

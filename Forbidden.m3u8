@@ -1,19 +1,25 @@
 #EXTM3U
-#EXTINF:0,Reality Kings TV
+#EXTINF:0,Babes TV
 #EXTGRP:TV каналы
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:0,Best Porn HD
+#EXTGRP:TV каналы
+http://srv-6-streaming.iptvin.online:8080/best_porn_hd/index.m3u8?token=1e69e542f8a298c4231df690639dd0f41a234ced-1568313441-1746383169-1746339969
 #EXTINF:0,Brazzers TV Europe
 #EXTGRP:TV каналы
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:0,Brazzers TV Europe HD
-#EXTGRP:XXX
+#EXTGRP:TV каналы
 http://hls.iptvin.online:2134/channel/1530e838/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,Leo TV HD
+#EXTINF:0,CentoXCento
 #EXTGRP:TV каналы
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:0,Leo TV Gold HD
+http://hls.iptvin.online:2134/channel/58485b61/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
+#EXTINF:0,CentoXCento (+2)
 #EXTGRP:TV каналы
-http://hls.iptvin.online:2134/channel/7efa5b7/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
+http://hls.iptvin.online:2134/channel/n7aeba027/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
+#EXTINF:0,Desire HD
+#EXTGRP:TV каналы
+http://hls.iptvin.online:2134/channel/79ece803/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,Digital Desire
 #EXTGRP:TV каналы
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
@@ -26,6 +32,15 @@ http://hls.iptvin.online:2134/channel/48e156ca/index.m3u8?q=cebe60f0fe6458e026d8
 #EXTINF:0,DORCEL XXX
 #EXTGRP:TV каналы
 http://hls.iptvin.online:2134/channel/7970d92a/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
+#EXTINF:0,Dusk
+#EXTGRP:TV каналы
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
+#EXTINF:0,Erox HD
+#EXTGRP:TV каналы
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:0,Erox HD
+#EXTGRP:TV каналы
+http://hls.iptvin.online:2134/channel/n6638b57b/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,Eroxxx HD
 #EXTGRP:TV каналы
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
@@ -38,46 +53,28 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:0,Extasy HD
 #EXTGRP:TV каналы
 http://hls.iptvin.online:2134/channel/n14c1af39/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,Babes TV
-#EXTGRP:TV каналы
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:0,Erox HD
-#EXTGRP:TV каналы
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:0,Erox HD
-#EXTGRP:TV каналы
-http://hls.iptvin.online:2134/channel/n6638b57b/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,Dusk
-#EXTGRP:TV каналы
-http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
-#EXTINF:0,CentoXCento
-#EXTGRP:TV каналы
-http://hls.iptvin.online:2134/channel/58485b61/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,CentoXCento (+2)
-#EXTGRP:TV каналы
-http://hls.iptvin.online:2134/channel/n7aeba027/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,Best Porn HD
-#EXTGRP:TV каналы
-http://srv-6-streaming.iptvin.online:8080/best_porn_hd/index.m3u8?token=1e69e542f8a298c4231df690639dd0f41a234ced-1568313441-1746383169-1746339969
-#EXTINF:0,Desire HD
-#EXTGRP:TV каналы
-http://hls.iptvin.online:2134/channel/79ece803/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,Private TV HD
-#EXTGRP:TV каналы
-http://hls.iptvin.online:2134/channel/n6be680f1/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,Hustler TV
 #EXTGRP:TV каналы
 http://hls.iptvin.online:2134/channel/54370fb3/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,Hustler HD
 #EXTGRP:TV каналы
 http://hls.iptvin.online:2134/channel/65926467/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
+#EXTINF:0,Leo TV HD
+#EXTGRP:TV каналы
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:0,Leo TV Gold HD
+#EXTGRP:TV каналы
+http://hls.iptvin.online:2134/channel/7efa5b7/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
+#EXTINF:0,Private TV HD
+#EXTGRP:TV каналы
+http://hls.iptvin.online:2134/channel/n6be680f1/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
+#EXTINF:0,Reality Kings TV
+#EXTGRP:TV каналы
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:0,Vivid TV Europe
 #EXTGRP:TV каналы
 http://hls.iptvin.online:2134/channel/n7fc7ae9e/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 http://cdn2.starcinemax.fun:2095/5001/index.m3u8?token=137946825
-#EXTINF:0,Baton TV Наслаждение 5 HD
-#EXTGRP:TV каналы
-http://cdn2.starcinemax.fun:2095/5005/index.m3u8?token=137946825
 #EXTINF:0,Baton TV Наслаждение 2 HD
 #EXTGRP:TV каналы
 http://cdn2.starcinemax.fun:2095/5002/index.m3u8?token=137946825
@@ -87,6 +84,9 @@ http://cdn2.starcinemax.fun:2095/5003/index.m3u8?token=137946825
 #EXTINF:0,Baton TV Наслаждение 4 HD
 #EXTGRP:TV каналы
 http://cdn2.starcinemax.fun:2095/5004/index.m3u8?token=137946825
+#EXTINF:0,Baton TV Наслаждение 5 HD
+#EXTGRP:TV каналы
+http://cdn2.starcinemax.fun:2095/5005/index.m3u8?token=137946825
 #EXTINF:0,Baton TV Наслаждение 6 HD
 #EXTGRP:TV каналы
 http://cdn2.starcinemax.fun:2095/5006/index.m3u8?token=137946825
